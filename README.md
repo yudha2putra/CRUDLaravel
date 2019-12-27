@@ -1,7 +1,7 @@
 # CURD Laravel
 
 This application is CRUD using Laravel Backend and Bootstrap. This application can create pegawai, read pegawai, update pegawai, and delete pegawai.
-![Alt text](relative/path/to/img.PNG?raw=true "Title")
+![Alt text](img.PNG?raw=true "Title")
 
 ## Getting Started
 
